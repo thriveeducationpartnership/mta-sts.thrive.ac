@@ -1,4 +1,4 @@
 version: STSv1
-mode: testing                                  # 1. Decide your mode. [enforce|testing|none]
-mx: thrive-ac.mail.protection.outlook.com      # 2. Add your primary mailserver hostname (see MX records in your DNS)
-max_age: 604800                                # 4. Depending on your mode above, 604800 seconds = 1 week might be a good value.
+mode: testing
+mx: thrive-ac.mail.protection.outlook.com
+max_age: 604800
